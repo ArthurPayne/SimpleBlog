@@ -1,0 +1,1 @@
+﻿Simple Blog is a simple blogging app using a client based on jQuery that makes RESTful AJAX calls to a PHP script connected to a MySQL Database, all in MVC style.
