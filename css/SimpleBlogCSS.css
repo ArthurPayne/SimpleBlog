@@ -1,0 +1,51 @@
+html, body {
+height: 100%;
+font-family: Arial, sans-serif;
+font-size: 12pt;
+}
+
+#Blog {
+height: 100%;
+padding: 1em;
+float: Left;
+}
+
+#Sidebar {
+height: 100%;
+float: Left;
+padding: 1em;
+}
+
+#SidebarForm {
+width: 20em;
+padding: 1em;
+border: 0.125em solid black;
+border-radius: 2em;
+box-shadow: 0.675em 0.75em 0.5em #888888;
+}
+
+#Blog>Article, #PostForm {
+width: 54em;
+padding: 1em;
+margin-bottom: 2em;
+border: 0.125em solid black;
+border-radius: 2em;
+box-shadow: 0.675em 0.75em 0.5em #888888;
+}
+
+#newerBtn {
+float: Left;
+}
+
+#olderBtn {
+float: Right;
+}
+
+#Entry {
+width: 100%;
+height: 20em;
+}
+
+#PostBtn {
+float: right;
+}
